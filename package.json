@@ -1,0 +1,24 @@
+{
+  "name": "consonant",
+  "version": "0.0.0",
+  "description": "JavaScript implementation of Consonant",
+  "author": "Jannis Pohlmann <jannis@xfce.org>",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jannis/consonant.js"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "license": "AGPL-3.0",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    
+  }
+}
